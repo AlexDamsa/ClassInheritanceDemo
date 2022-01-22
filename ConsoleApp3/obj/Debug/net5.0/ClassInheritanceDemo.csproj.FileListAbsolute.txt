@@ -1,0 +1,16 @@
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ClassInheritanceDemo.exe
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ClassInheritanceDemo.deps.json
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ClassInheritanceDemo.runtimeconfig.json
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ClassInheritanceDemo.runtimeconfig.dev.json
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ClassInheritanceDemo.dll
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ClassInheritanceDemo.dll
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ClassInheritanceDemo.pdb
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.csproj.AssemblyReference.cache
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.AssemblyInfoInputs.cache
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.AssemblyInfo.cs
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.csproj.CoreCompileInputs.cache
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.dll
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ClassInheritanceDemo.dll
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.pdb
+D:\Alex\Learning with Cristina\Ex\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ClassInheritanceDemo.genruntimeconfig.cache
